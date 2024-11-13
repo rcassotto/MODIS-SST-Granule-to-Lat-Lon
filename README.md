@@ -6,6 +6,6 @@ The Level 2 data is provided in 5-minute segements, called "granules". A MODIS g
 
 If you find this script useful and use it in your work, please cite the following citation:
 
-R. Cassotto, M. Fahnestock, J. M. Amundson, M. Truffer, and I. Joughin, *“Seasonal and interannual variations in ice mélange and its impact on terminus stability, Jakobshavn Isbræ, Greenland,”* Journal of Glaciology, vol. 61, no. 225, pp. 76–88, 2015, doi: 10.3189/2015jog13j235.
+R. Cassotto, M. Fahnestock, J. M. Amundson, M. Truffer, and I. Joughin, "Seasonal and interannual variations in ice mélange and its impact on terminus stability, Jakobshavn Isbræ, Greenland," *Journal of Glaciology*, vol. 61, no. 225, pp. 76–88, 2015, doi: 10.3189/2015jog13j235.
 
 
